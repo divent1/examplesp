@@ -31,7 +31,7 @@ header{
 
 
 section{
-    width: 100%;
+    width: 250%;
     float: left;
     height: 50vh;
     position: relative;
@@ -81,7 +81,6 @@ section{
 
 h1{
     position: absolute;
-    font-size: 50px;
     text-align: center;
     top: 50%;
     left: 50%;
