@@ -117,12 +117,13 @@ h1{
     background-color: #c52a2a; /* Add a green color to the "active/current" link */
     color: rgb(0, 0, 0);
   }
-  .vertical-menu a.active2 {
-    background-color: #c52a2a; /* Add a green color to the "active/current" link */
-    color: rgb(0, 0, 0);
-  }
 
   .vertical-menu a.active3 {
     background-color: #ced118; /* Add a green color to the "active/current" link */
+    color: rgb(0, 0, 0);
+  }
+
+  .vertical-menu a.active4 {
+    background-color: #00b7ff; /* Add a green color to the "active/current" link */
     color: rgb(0, 0, 0);
   }
